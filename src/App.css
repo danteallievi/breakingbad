@@ -135,7 +135,7 @@ input[type='text'] {
 .pagination-list {
   display: flex;
   justify-content: space-between;
-  margin-top: 5vh;
+  margin: 3vh 0;
 }
 
 .pagination-item {
